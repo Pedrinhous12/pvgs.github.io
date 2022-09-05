@@ -10,7 +10,7 @@
 }
 
 body{
-    background-image: url('../img/bc882c4a00eb417c655026731ae35255.jpg');
+   background-image: url('../img/87a09a5b-bfae-4621-8139-98fc97d7534b.jpg');
     background-size: cover;
 }
 
@@ -34,12 +34,12 @@ h1{
 }
 
 #esquecer_senha{
-    
+     
     background-color: white;
     width: 400px;
     margin-left: auto;
-    margin-right: auto;
-    margin-top: 10vh;
+    margin-right: 150px;
+    margin-top: 15vh;
     padding: 20px 30px;
     border-radius: 10px;
     text-align: center;
