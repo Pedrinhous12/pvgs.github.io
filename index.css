@@ -11,30 +11,10 @@
 
 body{
     background-color: green;
-    background-image: url('../img/img.png');
+    background-image: url('img/img.png');
     background-size: 25%;
     background-repeat: no-repeat;
     background-position: 85%
-}
-
-textarea:focus, input:focus{
-    outline:none;
-}
-
-a{
-    font-size: .8rem;
-}
-
-a:hover {
-    color: blue;
-}
-
-/* conteiner login */
-h1{
-   margin-bottom:5%;
-   margin: 1%;
- 
-    
 }
 
 #Introdução {
